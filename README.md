@@ -4,12 +4,12 @@
 
 # __cgpa_To_Percentage__
 
-A ```JAVA Program``` to find the Percentage out from CGPA (```listed on your result```).
+A ```JAVA Program``` to find a Percentage out from CGPA (```Printed on your result```).
 
 There are multiple ways to write a program for this topic.
 
 ### I wrote it in a ✌️(```two```) ways:
- There are two Folders. In which, 
+ There are Program files in two different Folders. In which, 
 * 📁Program file (```LOOP```)  ♾ 
 * 📁Program file (```no_LOOP```)
 
