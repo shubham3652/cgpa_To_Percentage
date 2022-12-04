@@ -9,13 +9,13 @@ A ```JAVA Program``` to find a Percentage out from CGPA (```Printed on your resu
 There are multiple ways to write a program for this topic.
 
 ### I wrote it in a ✌️(```two```) ways:
- There are Program files in two different Folders. In which, 
+ There are ✌️ Program files in two different Folders. In which, 
 * 📁Program file (```LOOP```)  ♾ 
 * 📁Program file (```no_LOOP```)
 
-There are comments over the code so that you can understand it very well.\
+And Some of the comments over the code so that you can understand it very well.\
 Its easy, you will get it.\
-I tried to make it as easy as possible to understand.
+I tried to make it as easy as possible to make you guys understand easily.
 
 ----------------
 ## Compile & Run (🏃)
