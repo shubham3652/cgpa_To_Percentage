@@ -10,12 +10,14 @@ There are multiple ways to write a program for this topic.
 
 ### I wrote it in a ✌️(```two```) ways:
  There are ✌️ Program files in two different Folders. In which, 
-* 📁Program file (```LOOP```)  ♾ 
-* 📁Program file (```no_LOOP```)
+* 📁Program Folder (```LOOP```)  ♾ 📝 cgpaToPercent_ForLoop.java
+* 📁Program Folder (```no_LOOP```) 📝 cgpaToPercent_no_ForLoop.java
 
 And Some of the comments over the code so that you can understand it very well.\
 Its easy, you will get it.\
 I tried to make it as easy as possible to make you guys understand easily.
+I haven't added ```Exceptional Handling``` for invalid input which you may type by mistake.🥲
+I will think of it in future. 😋
 
 ----------------
 ## Compile & Run (🏃)
